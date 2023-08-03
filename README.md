@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hi guys, I'm Felipe Donato Silveira computer student, I'm 17 years old, I live in Rio Grande do Sul, Brazil. It's been a while since I've been studying and going on my way to becoming a successful developer.
+Hi guys, I'm Felipe Donato Silveira, a 17 years old computer student.
+I live in Rio Grande do Sul, Brazil!
+It's been a while since I've been studying to become a great developer.
 
 Here are some ideas to get you started:
 
