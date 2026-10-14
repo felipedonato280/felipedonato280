@@ -22,30 +22,30 @@ I enjoy building projects that solve real-world problems while constantly improv
 
 ---
 
-## Tecnologias & Ferramentas / Tech Stack
+## Tech Stack
 
 <div align="center">
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,js,html,css" /></a> |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,js,html,css" /></a> |
 | **Frameworks & Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" /></a> |
-| **Bancos de Dados** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /></a> |
-| **Ferramentas & SO** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /></a> |
+| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /></a> |
+| **Tools & OS** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /></a> |
 
 </div>
 
 <br/>
 
 <details>
-<summary><b>Clique aqui para ver o que estou estudando atualmente</b></summary>
+<summary><b>Click here to see what I am currently learning</b></summary>
 
 <br/>
 
-- **React** Avançado & Ecossistema Frontend
-- **Python** (FastAPI, REST APIs & Boas Práticas)
-- **Arquitetura de Software** & **Clean Code**
-- Fundamentos de **Cloud Computing**
+- Advanced **React** & Frontend Ecosystem
+- **Python** (FastAPI, REST APIs & Best Practices)
+- **Software Architecture** & **Clean Code**
+- Fundamentals of **Cloud Computing**
 
 </details>
 
