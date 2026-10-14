@@ -22,43 +22,32 @@ I enjoy building projects that solve real-world problems while constantly improv
 
 ---
 
-## Tech Stack
+## Tecnologias & Ferramentas / Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,js,html,css" /></a> |
+| **Frameworks & Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" /></a> |
+| **Bancos de Dados** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /></a> |
+| **Ferramentas & SO** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /></a> |
 
-### Frameworks & Libraries
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" />
-</p>
+<br/>
 
-### Databases
+<details>
+<summary><b>Clique aqui para ver o que estou estudando atualmente</b></summary>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
+<br/>
 
-### Tools
+- **React** Avançado & Ecossistema Frontend
+- **Python** (FastAPI, REST APIs & Boas Práticas)
+- **Arquitetura de Software** & **Clean Code**
+- Fundamentos de **Cloud Computing**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
-</p>
-
----
-
-# Currently Learning
-
-- React
-- Advanced Python
-- FastAPI
-- REST APIs
-- Software Architecture
-- Cloud Computing
-- Clean Code
+</details>
 
 ---
 
