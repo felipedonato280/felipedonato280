@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm Felipe Donato 👋
+# Hi there! I'm Felipe Donato
 
 ### Full Stack Developer Student • Python • Java • React • Node.js
 
@@ -10,19 +10,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm **Felipe Donato Silveira**, a **20-year-old Full Stack Developer student** from **Rio Grande do Sul, Brazil 🇧🇷**.
 
-🎓 Currently studying **Systems Analysis and Development (ADS)**.
+Currently studying **Systems Analysis and Development (ADS)**.
 
-💡 Passionate about technology, software development and continuous learning.
+Passionate about technology, software development and continuous learning.
 
-🚀 I enjoy building projects that solve real-world problems while constantly improving my programming skills.
+I enjoy building projects that solve real-world problems while constantly improving my programming skills.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -50,19 +50,19 @@ I'm **Felipe Donato Silveira**, a **20-year-old Full Stack Developer student** f
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
-- ⚛️ React
-- ☕ Spring Boot
-- 🐍 Advanced Python
-- 🔗 REST APIs
-- 🏗️ Software Architecture
-- ☁️ Cloud Computing
-- 🧹 Clean Code
+- React
+- Advanced Python
+- FastAPI
+- REST APIs
+- Software Architecture
+- Cloud Computing
+- Clean Code
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@ I'm **Felipe Donato Silveira**, a **20-year-old Full Stack Developer student** f
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
@@ -84,7 +84,7 @@ I'm **Felipe Donato Silveira**, a **20-year-old Full Stack Developer student** f
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -94,7 +94,7 @@ I'm **Felipe Donato Silveira**, a **20-year-old Full Stack Developer student** f
 
 ---
 
-# 📫 Connect with Me
+# Connect with Me
 
 <p align="center">
 
@@ -110,7 +110,7 @@ I'm **Felipe Donato Silveira**, a **20-year-old Full Stack Developer student** f
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/felipedonato280/felipedonato280/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
@@ -120,8 +120,8 @@ I'm **Felipe Donato Silveira**, a **20-year-old Full Stack Developer student** f
 
 <div align="center">
 
-### 💡 *"Code. Learn. Build. Repeat."*
+### *"Code. Learn. Build. Repeat."*
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </div>
