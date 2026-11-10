@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm **Felipe Donato Silveira**, a **20-year-old Full Stack Developer student** from **Rio Grande do Sul, Brazil 🇧🇷**.
+I'm **Felipe Donato Silveira**, a **21-year-old Full Stack Developer student** from **Rio Grande do Sul, Brazil 🇧🇷**.
 
 Currently studying **Systems Analysis and Development (ADS)**.
 
